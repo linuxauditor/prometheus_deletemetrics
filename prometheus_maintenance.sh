@@ -2,8 +2,6 @@
 #!/bin/bash
 ####ARGS####
 
-cd /home/ubuntu/prometheus_maintenance
-
 echo  "Start of script: " $(date)
 
 IFS=","
